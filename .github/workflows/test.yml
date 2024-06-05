@@ -17,7 +17,7 @@ jobs:
           SNOWFLAKE_USERNAME: josraj
           SNOWFLAKE_PASSWORD: Login2SF!
         with:
-          soda_library_version: v1.0.4
+          soda_library_version: v1.5.5
           data_source: snowflake
           configuration: ./configuration.yaml
           checks: ./checks.yaml
