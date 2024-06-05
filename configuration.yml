@@ -1,17 +1,17 @@
 data_source my_datasource_name:
      type: snowflake
-     username: ${ SNOWFLAKE_USER }
-     password: ${ SNOWFLAKE_PASS }
-     account: ${ SNOWFLAKE_ACCOUNT } 
-     database: sodadata_test
+     username: josraj
+     password: Login2SF!
+     account: kd30072.central-india.azure
+     database: DBT_DB
      warehouse: compute_wh
-     role: analyst
+     role: 
      session_parameters:
        QUERY_TAG: soda-queries
        QUOTED_IDENTIFIERS_IGNORE_CASE: false
-     schema: public
+     schema: DBT_SCHEMA
       
    soda_cloud:
      host: cloud.us.soda.io
-     api_key_id: ${ SODA_CLOUD_API_KEY }
-     api_key_secret: ${ SODA_CLOUD_API_SECRET }
+     api_key_id: 6c00053c-483d-4520-9883-46b1566a972e
+     api_key_secret: -x7yUv7_yS_ZfQpl3f3A3QwG1BNNudNtxxgA6z2E3B3UX69pktQGtw
