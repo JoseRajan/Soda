@@ -12,6 +12,6 @@ data_source dbsource:
      schema: DBT_SCHEMA
       
 soda_cloud:
-     host: cloud.us.soda.io
+     host: cloud.soda.io
      api_key_id: b9caaff5-90fa-433e-bf72-c6cc2f8c07a2
      api_key_secret: kaD5CD3c65tLlEl5j38K4-I324XliCjF80obJ0gocWdrlSOgI9kvtA
