@@ -12,8 +12,8 @@ jobs:
       - name: Perform Soda Scan
         uses: sodadata/soda-github-action@v1.0.2
         env:
-          SODA_CLOUD_API_KEY: 6c00053c-483d-4520-9883-46b1566a972e
-          SODA_CLOUD_API_SECRET: -x7yUv7_yS_ZfQpl3f3A3QwG1BNNudNtxxgA6z2E3B3UX69pktQGtw
+          SODA_CLOUD_API_KEY: b9caaff5-90fa-433e-bf72-c6cc2f8c07a2
+          SODA_CLOUD_API_SECRET: kaD5CD3c65tLlEl5j38K4-I324XliCjF80obJ0gocWdrlSOgI9kvtA
           SNOWFLAKE_USERNAME: josraj
           SNOWFLAKE_PASSWORD: Login2SF!
         with:
