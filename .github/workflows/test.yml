@@ -10,7 +10,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Perform Soda Scan
-        uses: sodadata/soda-github-action@v1
+        uses: sodadata/soda-github-action@v1.0.2
         env:
           SODA_CLOUD_API_KEY: 6c00053c-483d-4520-9883-46b1566a972e
           SODA_CLOUD_API_SECRET: -x7yUv7_yS_ZfQpl3f3A3QwG1BNNudNtxxgA6z2E3B3UX69pktQGtw
