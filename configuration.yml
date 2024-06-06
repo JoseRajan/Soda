@@ -13,5 +13,5 @@ data_source dbsource:
       
 soda_cloud:
      host: cloud.us.soda.io
-     api_key_id: 6c00053c-483d-4520-9883-46b1566a972e
-     api_key_secret: -x7yUv7_yS_ZfQpl3f3A3QwG1BNNudNtxxgA6z2E3B3UX69pktQGtw
+     api_key_id: b9caaff5-90fa-433e-bf72-c6cc2f8c07a2
+     api_key_secret: kaD5CD3c65tLlEl5j38K4-I324XliCjF80obJ0gocWdrlSOgI9kvtA
