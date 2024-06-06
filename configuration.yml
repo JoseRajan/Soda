@@ -1,4 +1,4 @@
-data_source my_datasource_name:
+data_source dbsource:
      type: snowflake
      username: josraj
      password: Login2SF!
