@@ -1,6 +1,6 @@
 checks for FACT_ORDERS:
    # Checks that dataset contains rows
-     - row_count > 0:
+     - row_count > 1500000:
          name: Dataset contains data
    # Checks that column contains no NULL values
      - missing_count(O_ORDERKEY) = 0:
